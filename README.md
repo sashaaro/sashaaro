@@ -4,6 +4,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sashaaro&hide=stars,contribs&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
+
+![](https://komarev.com/ghpvc/?username=sashaaro&color=green)
+
 <!--
 **sashaaro/sashaaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
