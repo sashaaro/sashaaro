@@ -7,6 +7,8 @@
 
 ![](https://komarev.com/ghpvc/?username=sashaaro&color=green)
 
+Telegram: sashaaro
+
 <!--
 **sashaaro/sashaaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
