@@ -9,7 +9,7 @@ Telegram: sashaaro
 
 ![](https://komarev.com/ghpvc/?username=sashaaro&color=green)
 
-![Сиатьи на хабр](https://habr.com/ru/users/sashaaro/)
+![На хабре](https://habr.com/ru/users/sashaaro/)
 
 
 <!--
