@@ -1,4 +1,7 @@
-## Hi there 👋
+## 📦 Проекты
+
+- [burrowMQ](https://github.com/sashaaro/burrowMQ) — минималистичный AMQP-брокер на 🦀 Rust.
+- [eng-roulette](https://github.com/sashaaro/eng-roulette) — видеочат-рулетка для практики английского, построенная на 🌍 WebRTC + 🦀 Rust (SFU).
 
 Telegram: **@sashaaro**
 
