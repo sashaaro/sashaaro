@@ -1,7 +1,7 @@
 #### 📦 Проекты
 
 - [burrowMQ](https://github.com/sashaaro/burrowMQ) — минималистичный AMQP 0.9.1-брокер на 🦀 Rust.
-- [eng-roulette](https://github.com/sashaaro/eng-roulette) — видеочат-рулетка для практики английского, построенная на 🌍 WebRTC (SFU) + 🦀 Rust.
+- [eng-roulette](https://github.com/sashaaro/eng-roulette) — видеочат-рулетка для практики английского с WebRTC (SFU) на 🦀 Rust.
 - [isolation_test](https://github.com/sashaaro/isolation_test) — **Go**-тесты для PostgreSQL, демонстрирующий влияние уровней изоляции транзакций. Позволяет воспроизвести грязные чтения, фантомы и другие аномалии конкурентного доступа.
 
 #### 📡 Контрибьют в
