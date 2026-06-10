@@ -4,9 +4,6 @@
 - [eng-roulette](https://github.com/sashaaro/eng-roulette) — видеочат-рулетка для практики английского с WebRTC (SFU) на 🦀 Rust.
 - [isolation_test](https://github.com/sashaaro/isolation_test) — **Go**-тесты для PostgreSQL, демонстрирующий влияние уровней изоляции транзакций. Позволяет воспроизвести грязные чтения, фантомы и другие аномалии конкурентного доступа.
 
-#### 📡 Контрибьют в
-- ([kevinjqiu/coredns-dockerdiscovery](https://github.com/kevinjqiu/coredns-dockerdiscovery/commits/master/?author=sashaaro)) — плагин для CoreDNS. Добавил поддержку сетевых Docker алиасов и меток контейнеров для определения DNS-имён, что позволяет удобнее управлять DNS-записями на основе метаданных контейнеров.
-
 
 Telegram: **@sashaaro**
 
